@@ -32,10 +32,20 @@ TransLingua-AI-Powered-Multi-Language-Translator/
 **Step 5: Run the Application**
 - streamlit run app.py
 
-# How It Works
+# 🧪How It Works
 1. The user enters text in the input box.
 2. The user selects the source and target languages.
 3. The application sends the input as a prompt to the Gemini AI model.
 4. The AI generates and displays the translated text.
 
+# ⚠️Notes
+- Do not upload the .env file to GitHub to protect your API key and sensitive data.
+- API usage may incur charges depending on the Gemini API usage limits and billing plan.
+- Language options are currently fixed and can be extended by modifying the main Python file.
 
+# 🚀 Future Improvements
+- Add more language options dynamically
+- Speech-to-text support
+- Text-to-speech output
+- Translation history
+- Better error handling and validation
