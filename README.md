@@ -16,18 +16,18 @@ TransLingua-AI-Powered-Multi-Language-Translator/
 
 # ⚙️Installation
 **Step 1: Clone or Download the Project**
-git clone <your-repository-link>
-cd Project
+- git clone <your-repository-link>
+- cd Project
 
 **Step 2: Set Up a Virtual Environment**
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv
+- venv\Scripts\activate
 
 **Step 3: Install Dependencies**
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 **Step 4: Environment Setup**
-GOOGLE_API_KEY=your_gemini_api_key
+- GOOGLE_API_KEY=your_gemini_api_key
 
 **Step 5: Run the Application**
-streamlit run app.py
+- streamlit run app.py
