@@ -1,6 +1,8 @@
 # 🌐TransLingua-AI-Powered-Multi-Language-Translator
-# Overview
-TransLingua is an AI-driven multi-language translation application that enables users to translate text between multiple languages with high accuracy and contextual understanding. Built with a clean UI and a powerful AI backend, it’s designed for students, developers, and global users.
+# 📘 Overview
+TransLingua is an AI-powered multi-language translation application designed to provide fast, accurate, and context-aware translations. The application allows users to input text, select source and target languages, and instantly receive translated output through an intuitive web interface.
+
+Built using Python and Streamlit, and powered by the Google Gemini AI model, TransLingua focuses on simplicity, performance, and secure API usage. It is suitable for students, developers, and anyone who needs reliable language translation in real time.
 
 # 📂 Project Structure
 TransLingua-AI-Powered-Multi-Language-Translator/
