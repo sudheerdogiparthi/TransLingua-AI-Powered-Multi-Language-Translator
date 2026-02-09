@@ -3,7 +3,6 @@ TransLingua is an AI-driven multi-language translation application that enables 
 
 # 📂 Project Structure
 TransLingua-AI-Powered-Multi-Language-Translator/
-│
 ├── app.py                     # Main application
 ├── .env                       # API keys (not committed)
 ├── requirements.txt           # Dependencies
@@ -14,3 +13,8 @@ TransLingua-AI-Powered-Multi-Language-Translator/
 - Streamlit
 - Google Generative AI
 - python-dotenv
+
+# Installation
+1. Clone the Repository
+git clone <your-repository-link>
+cd Project
