@@ -10,7 +10,7 @@ TransLingua-AI-Powered-Multi-Language-Translator/
 ├── README.md                  # Project documentation
 
 # 🧰Technologies
--Python
--Streamlit
--Google Generative AI
--python-dotenv
+- Python
+- Streamlit
+- Google Generative AI
+- python-dotenv
