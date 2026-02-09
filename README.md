@@ -14,18 +14,20 @@ TransLingua-AI-Powered-Multi-Language-Translator/
 - Google Generative AI
 - python-dotenv
 
-# Installation
-Step 1: Download the Project
-Clone the repository or download the project files and navigate to the project directory.
+# ⚙️Installation
+**Step 1: Clone or Download the Project**
+git clone <your-repository-link>
+cd Project
 
-git clone cd translingua
+**Step 2: Set Up a Virtual Environment**
+python -m venv venv
+venv\Scripts\activate
 
-Step 2: Set Up a Virtual Environment
-Create and activate a virtual environment to manage dependencies efficiently.
-
-python -m venv venv venv\Scripts\activate
-
-Step 3: Install Required Libraries
-Install all necessary dependencies listed in the requirements file.
-
+**Step 3: Install Dependencies**
 pip install -r requirements.txt
+
+**Step 4: Environment Setup**
+GOOGLE_API_KEY=your_gemini_api_key
+
+**Step 5: Run the Application**
+streamlit run app.py
