@@ -6,10 +6,13 @@ Built using Python and Streamlit, and powered by the Google Gemini AI model, Tra
 
 # 📂 Project Structure
 TransLingua-AI-Powered-Multi-Language-Translator/
-├── app.py                     # Main application
+TransLingua-AI-Powered-Multi-Language-Translator/
+│
+├── app.py / translang.py      # Main application
 ├── .env                       # API keys (not committed)
 ├── requirements.txt           # Dependencies
 ├── README.md                  # Project documentation
+└── assets/                    # Images / screenshots
 
 # 🧰Technologies
 - Python
